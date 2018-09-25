@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The annotation toll will open sourced soon.
+## The annotation tool will be open sourced soon.
 
 [back](./)
 
