@@ -1,5 +1,7 @@
+theme: jekyll-theme-cayman
 title: MobiFace
 description: A Novel Dataset for Mobile Face Tracking in the Wild
-show_downloads: 
-google_analytics:
-theme: jekyll-theme-cayman
+arxiv:
+  show_arxiv: true
+  paper_url: https://arxiv.org/abs/1805.09749v2
+google_analytics: UA-132987889-1
