@@ -3,7 +3,6 @@ layout: default
 ---
 
 
-MobiFace is accped by [FG'2019](http://www.fg2019.org).
 Please fill in the forms at the bottom to request the dataset.  
 Evluation server will be up running soon. 
 
