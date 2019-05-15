@@ -4,7 +4,6 @@ layout: default
 
 
 Please fill in the forms at the bottom to request the dataset.  
-Evluation server will be up running soon. 
 
 
 <img src="assets/mobiface.jpg" alt="mobiface" class="inline"/>
