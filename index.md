@@ -5,7 +5,7 @@ layout: default
 
 <img src="assets/mobiface.jpg" alt="mobiface" class="inline"/>
 
-MobiFace is a novel dataset for mobile face tracking in the wild. It contains 80 unedited mobile live streaming recordings by smartphone users. More than 95K bounding box annotations are provided.  
+MobiFace is a novel dataset for mobile face tracking in the wild. It contains 80 unedited mobile live streaming recordings by smartphone users. More than 95K bounding box annotations are provided. It it released for **academic purpose only**.
 
 If you find MobiFace useful, please consider citing:  
 ```
