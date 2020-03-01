@@ -14,19 +14,17 @@ If you find MobiFace useful, please consider citing:
 ```
 @inproceedings{FT-RCNN,
     author = {Yiming Lin and Jie Shen and Shiyang Cheng and Maja Pantic},
-    booktitle = {The 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+    booktitle = {The IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
     title = {FT-RCNN: Real-time Visual Face Tracking with Region-based Convolutional Neural Networks},
     year = {2020},
 }
 ```
 ```
-@misc{mobiface_fg2019,
-    title={MobiFace: A Novel Dataset for Mobile Face Tracking in the Wild},
+@inproceedings{mobiface_fg2019,
     author={Yiming Lin and Shiyang Cheng and Jie Shen and Maja Pantic},
-    year={2018},
-    eprint={1805.09749},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
+    booktitle = {The IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+    title={MobiFace: A Novel Dataset for Mobile Face Tracking in the Wild},
+    year={2019},
     url={https://arxiv.org/abs/1805.09749v2}
 }
 ```
