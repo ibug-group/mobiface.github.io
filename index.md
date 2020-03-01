@@ -10,7 +10,15 @@ MobiFace is a novel dataset for mobile face tracking in the wild. It contains 80
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfT817ndiYYBElMxrLhMm5yii16PrBGsYeslETUgLiXl974gg/viewform?embedded=true" width="640" height="886" frameborder="0" marginheight="0" marginwidth="0" allowfullscreen>Loading...</iframe>	
 </div>
 
-If you find MobiFace useful, please consider citing:  
+If you find MobiFace useful, please consider citing: 
+```
+@inproceedings{FT-RCNN,
+    author = {Yiming Lin and Jie Shen and Shiyang Cheng and Maja Pantic},
+    booktitle = {The 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+    title = {FT-RCNN: Real-time Visual Face Tracking with Region-based Convolutional Neural Networks},
+    year = {2020},
+}
+```
 ```
 @misc{mobiface_fg2019,
     title={MobiFace: A Novel Dataset for Mobile Face Tracking in the Wild},
