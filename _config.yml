@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: MobiFace
-description: A Novel Dataset for Mobile Face Tracking in the Wild
+description: A Novel Dataset for Mobile Face Tracking and Face Grouping in the Wild
 arxiv:
   show_arxiv: true
   paper_url: https://arxiv.org/abs/1805.09749v2
